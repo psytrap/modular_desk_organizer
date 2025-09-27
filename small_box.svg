@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="small_box.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="1.2944094"
+     inkscape:cx="263.44061"
+     inkscape:cy="473.18878"
+     inkscape:window-width="3006"
+     inkscape:window-height="1659"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g809">
+    <inkscape:grid
+       type="xygrid"
+       id="grid132"
+       units="mm"
+       spacingx="1"
+       spacingy="1" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g809"
+       transform="translate(3,5)"
+       style="stroke-width:0.2;stroke-dasharray:none">
+      <path
+         id="path301-7-0"
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:0;stroke-dasharray:none"
+         d="M 202,202 V 85 H 122 V 5 l -37,1e-6 L 84.999999,85 H 5 l 5e-7,117 H 85 v 80 h 37 v -80 z m -80,0 V 85 H 85 v 117 z"
+         sodipodi:nodetypes="cccccccccccccccccc" />
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:0;stroke-dasharray:none"
+       d="m 125,90 10,-9.999998 h 60 L 205,90"
+       id="path908" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:0;stroke-dasharray:none"
+       d="m 205,207 -10,10 h -60 l -10,-10"
+       id="path910" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:0;stroke-dasharray:none"
+       d="m 8.000002,207.00001 10,10 h 60 l 9.999998,-10"
+       id="path912" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:0;stroke-dasharray:none"
+       d="M 87.999998,89.999998 78,80 H 18 L 8,89.999998"
+       id="path914" />
+  </g>
+</svg>
