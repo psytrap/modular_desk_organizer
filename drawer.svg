@@ -24,9 +24,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="7.3222852"
-     inkscape:cx="545.5947"
-     inkscape:cy="723.88604"
+     inkscape:zoom="1.2944094"
+     inkscape:cx="293.57018"
+     inkscape:cy="1034.0623"
      inkscape:window-width="3006"
      inkscape:window-height="1659"
      inkscape:window-x="0"
@@ -84,14 +84,9 @@
          id="path1921" />
       <path
          style="fill:none;stroke:#000000;stroke-width:0.25;stroke-miterlimit:0"
-         d="m 154,189 h -14 l -4,4 v 13 l 4,4 h 14"
+         d="m 154,183 -18,6 v 21 l 18,6"
          id="path298"
-         sodipodi:nodetypes="cccccc" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.25;stroke-miterlimit:0"
-         d="m 20,189 h 14 l 4,4 v 13 l -4,4 H 20"
-         id="path298-3"
-         sodipodi:nodetypes="cccccc" />
+         sodipodi:nodetypes="cccc" />
     </g>
   </g>
 </svg>

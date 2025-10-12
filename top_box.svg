@@ -23,16 +23,16 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     showgrid="true"
-     inkscape:zoom="3.6611426"
-     inkscape:cx="504.21418"
-     inkscape:cy="769.02222"
+     showgrid="false"
+     inkscape:zoom="0.45764283"
+     inkscape:cx="-1599.5007"
+     inkscape:cy="-392.22728"
      inkscape:window-width="3006"
      inkscape:window-height="1659"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g2041">
+     inkscape:current-layer="g302-3">
     <inkscape:grid
        type="xygrid"
        id="grid132"
@@ -73,20 +73,46 @@
            id="path2027"
            sodipodi:nodetypes="cccc" />
       </g>
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.25;stroke-miterlimit:0"
-         d="m 52,90 -10,0 v 120 l 10,0"
-         id="path2043"
-         sodipodi:nodetypes="cccc" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.25;stroke-miterlimit:0"
-         d="M 42,90 H 22 v 120 l 20,0"
-         id="path2045"
-         sodipodi:nodetypes="cccc" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.25;stroke-miterlimit:0"
-         d="m 22,90 -9.999998,10 V 200 L 22,210"
-         id="path2047" />
+      <g
+         id="g302">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.25;stroke-miterlimit:0"
+           d="m 52,90 -10,0 v 120 l 10,0"
+           id="path2043"
+           sodipodi:nodetypes="cccc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.25;stroke-miterlimit:0"
+           d="M 42,90 H 22 v 120 l 20,0"
+           id="path2045"
+           sodipodi:nodetypes="cccc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.25;stroke-miterlimit:0"
+           d="m 22,90 -9.999998,10 V 200 L 22,210"
+           id="path2047" />
+      </g>
+      <g
+         id="g302-3"
+         style="stroke-width:0.25"
+         transform="rotate(90,102,115)">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.25;stroke-miterlimit:0"
+           d="M 52,90 H 42 v 120 h 10"
+           id="path2043-6"
+           sodipodi:nodetypes="cccc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.25;stroke-miterlimit:0"
+           d="M 42,90 H 22 v 120 h 20"
+           id="path2045-7"
+           sodipodi:nodetypes="cccc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.25;stroke-miterlimit:0"
+           d="m 22,90 -9.999998,10 V 200 L 22,210"
+           id="path2047-5" />
+        <path
+           id="path2047-5-3"
+           style="fill:none;stroke:#000000;stroke-width:0.25;stroke-miterlimit:0"
+           d="m 51.470703,90 c 0,40 0,80 0,120 0.611301,0.40474 1.142395,0.40583 1.540693,-0.2614 3.121201,-3.1212 6.242403,-6.2424 9.363604,-9.3636 0.336576,-0.86863 0.06874,-1.85675 0.154297,-2.775 0,-32.53333 0,-65.06667 0,-97.6 C 62.178543,99.171068 61.3143,98.684365 60.748654,97.998654 57.957436,95.207436 55.166218,92.416218 52.375,89.625 52.073568,89.75 51.772135,89.875 51.470703,90 Z" />
+      </g>
     </g>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.25;stroke-miterlimit:0"
