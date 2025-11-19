@@ -1,15 +1,11 @@
 # modular_desk_organizer
 
-
-
-
-
 # Build
 
 Bill of material
 
-2x2 A4 + 2x Seperator
-5x A6 + Spacer
+2x 2 sheet A4 Box + 2x Seperator
+5x A6 Box + Spacer
 1x A6 Topbox + Ramp
 2x Drawer
 1x Pencil holder
@@ -38,13 +34,6 @@ on paint assist start with the edges then fill the areas
 Glue things together
 If you have poorly painted boxes, use them as inner elements
 
-
-
-
-
-
-
-
 # TODO
 
 Large Box test
@@ -52,3 +41,7 @@ Large Box test
 Instructions
 
 
+
+Umgekehrt verstärken vom Immunsystem erzeugte Zykotine das angstempfinden und erzeugen eine gedrückte Stimmung.
+
+Umgekehrt beeinflusst das Immunsystem die Psyche, das sogenannte Sicknessbehavior. Das spielt etwa bei der ganzheitlichen Behandlung von Autoimmunerkrankungen ein wichtige Rolle.

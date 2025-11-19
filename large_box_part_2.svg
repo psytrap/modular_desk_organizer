@@ -24,9 +24,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="2"
-     inkscape:cx="25.5"
-     inkscape:cy="37.25"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="-36.062446"
+     inkscape:cy="686.95424"
      inkscape:window-width="3006"
      inkscape:window-height="1659"
      inkscape:window-x="0"
@@ -48,32 +48,34 @@
      id="layer1">
     <path
        style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-miterlimit:0"
-       d="M 30,40 20.000002,30 V 16 L 30,6"
+       d="M 20,50 10.000002,40 V 26 L 20,16"
        id="path919" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-miterlimit:0"
-       d="M 30,280 20,270 V 50 L 30,40"
+       d="M 20,290 10,280 V 60 L 20,50"
        id="path910-1" />
     <path
        id="path301-7-0-3"
        style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-miterlimit:0"
-       d="m 30,40 80,0 0,240 H 30 Z"
+       d="M 20,50 H 142 V 290 H 20 Z"
        sodipodi:nodetypes="ccccc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-miterlimit:0"
-       d="m 30,6.000002 v 34"
+       d="m 20,16.000002 v 34"
        id="path482-6-3" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-miterlimit:0"
-       d="m 30,280 10,10 h 60 l 10,-10"
-       id="path908-5" />
+       d="M 142,16 132,6 H 30 L 20,16"
+       id="path908-5"
+       sodipodi:nodetypes="cccc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-miterlimit:0"
-       d="M 29.99999,6.000012 H 110 v 33.99999"
-       id="path513-9" />
+       d="M 19.99999,16.000012 142,16.00001 V 50"
+       id="path513-9"
+       sodipodi:nodetypes="ccc" />
     <g
        id="g564"
-       transform="translate(-20,25)">
+       transform="translate(12.333334,35)">
       <g
          id="g556">
         <path
@@ -109,7 +111,7 @@
     </g>
     <g
        id="g564-3"
-       transform="translate(-125,25)">
+       transform="translate(-125,35)">
       <g
          id="g556-6">
         <path
@@ -142,6 +144,48 @@
            d="m 135,48.999999 h 5"
            id="path526-9" />
       </g>
+    </g>
+    <g
+       id="g473"
+       transform="matrix(1,0,0,-1,-42.62503,195)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-miterlimit:0"
+         d="m 197.62503,110 10,10 h 14 l 10,-10"
+         id="path908-2-7-5"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-miterlimit:0"
+         d="M 231.62502,109.99999 V 30 h -33.99999 v 80 z"
+         id="path513-3" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:0;stroke-dasharray:none"
+         d="m 231.62503,30 10,10 v 23 l -10,10"
+         id="path403-6" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:0;stroke-dasharray:none"
+         d="m 197.62503,73 -10,-10 V 40 l 10,-10"
+         id="path403-6-3" />
+    </g>
+    <g
+       id="g473-6"
+       transform="translate(-42.62503,140)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-miterlimit:0"
+         d="m 197.62503,110 10,10 h 14 l 10,-10"
+         id="path908-2-7-5-7"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-miterlimit:0"
+         d="M 231.62502,109.99999 V 30 h -33.99999 v 80 z"
+         id="path513-3-5" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:0;stroke-dasharray:none"
+         d="m 231.62503,30 10,10 v 23 l -10,10"
+         id="path403-6-35" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:0;stroke-dasharray:none"
+         d="m 197.62503,73 -10,-10 V 40 l 10,-10"
+         id="path403-6-3-6" />
     </g>
   </g>
 </svg>
