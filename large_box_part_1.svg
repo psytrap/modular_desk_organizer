@@ -24,9 +24,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="0.64720469"
-     inkscape:cx="-814.27098"
-     inkscape:cy="254.16997"
+     inkscape:zoom="1.2944094"
+     inkscape:cx="-278.11912"
+     inkscape:cy="555.85197"
      inkscape:window-width="3006"
      inkscape:window-height="1659"
      inkscape:window-x="0"
@@ -48,98 +48,76 @@
      id="layer1">
     <path
        style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-miterlimit:0"
-       d="M 50,4.999999 V 245 H 16 V 4.999999 Z"
+       d="M 50,4.999999 50,248 H 16 L 16,4.999999 Z"
        id="path453-3"
        sodipodi:nodetypes="ccccc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-miterlimit:0"
-       d="M 50,279 V 245"
-       id="path482-6" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-miterlimit:0"
-       d="m 50,245 -10,10 v 14 l 10,10"
+       d="m 50,248 -10,10 v 14 l 10,10"
        id="path908-2-7"
        sodipodi:nodetypes="cccc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-miterlimit:0"
-       d="M 50,245 H 175 V 5 l -125,-1e-6"
+       d="M 50,248 H 172 L 172,5 50,4.999999"
        id="path511"
        sodipodi:nodetypes="cccc" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-miterlimit:0"
-       d="M 49.999999,278.99999 175,279 v -33.99999"
        id="path513"
-       sodipodi:nodetypes="ccc" />
-    <g
-       id="g541"
-       transform="translate(0,-10)">
-      <path
-         style="fill:#000000;stroke:#000000;stroke-width:0.25;stroke-miterlimit:0"
-         d="m 5,15 h 5"
-         id="path358" />
-      <path
-         style="fill:#000000;stroke:#000000;stroke-width:0.25;stroke-miterlimit:0"
-         d="M 10,255 H 5"
-         id="path364" />
-      <path
-         style="fill:#000000;stroke:#000000;stroke-width:0.25;stroke-miterlimit:0"
-         d="m 5,135 h 5"
-         id="path368" />
-      <path
-         style="fill:#000000;stroke:#000000;stroke-width:0.25;stroke-miterlimit:0"
-         d="m 5,75 h 5"
-         id="path370" />
-      <path
-         style="fill:#000000;stroke:#000000;stroke-width:0.25;stroke-miterlimit:0"
-         d="m 5,195 h 5"
-         id="path372" />
-      <path
-         style="fill:#000000;stroke:#000000;stroke-width:0.25;stroke-miterlimit:0"
-         d="m 5,221 h 5"
-         id="path372-6"
-         sodipodi:nodetypes="cc" />
-      <path
-         style="fill:#000000;stroke:#000000;stroke-width:0.25;stroke-miterlimit:0"
-         d="m 5,48.999999 h 5"
-         id="path524" />
-    </g>
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-miterlimit:0"
+       d="m 172,248 v 33.99999 L 49.999999,281.99998 50,282 v -34"
+       sodipodi:nodetypes="ccccc" />
     <g
        id="g556"
-       transform="translate(47.625002,-10)">
+       transform="translate(40.125,-8.375001)">
       <path
          style="fill:#000000;stroke:#000000;stroke-width:0.25;stroke-miterlimit:0"
-         d="m 135,15 h 5"
+         d="m 134.875,13.500001 h 5"
          id="path358-6" />
       <path
          style="fill:#000000;stroke:#000000;stroke-width:0.25;stroke-miterlimit:0"
-         d="m 140,255 h -5"
+         d="m 139.875,256.5 h -5"
          id="path364-7" />
       <path
          style="fill:#000000;stroke:#000000;stroke-width:0.25;stroke-miterlimit:0"
-         d="m 135,135 h 5"
+         d="m 134.9375,135 h 5"
          id="path368-5" />
       <path
          style="fill:#000000;stroke:#000000;stroke-width:0.25;stroke-miterlimit:0"
-         d="m 135,75 h 5"
+         d="m 135,74.25 h 5"
          id="path370-3" />
       <path
          style="fill:#000000;stroke:#000000;stroke-width:0.25;stroke-miterlimit:0"
-         d="m 135,195 h 5"
+         d="m 135,195.75 h 5"
          id="path372-5" />
-      <path
-         style="fill:#000000;stroke:#000000;stroke-width:0.25;stroke-miterlimit:0"
-         d="m 135,221 h 5"
-         id="path372-5-3"
-         sodipodi:nodetypes="cc" />
-      <path
-         style="fill:#000000;stroke:#000000;stroke-width:0.25;stroke-miterlimit:0"
-         d="m 135,48.999999 h 5"
-         id="path526" />
     </g>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-miterlimit:0"
-       d="m 175,279 -10,10 -105,-0.125 -10,-10"
+       d="m 172,282 c -3.3285,3.3285 -6.66629,6.66629 -10,10 l -102,-0.125 -10,-10"
        id="path908"
        sodipodi:nodetypes="cccc" />
+    <g
+       id="g556-5"
+       transform="translate(-129.875,-8.500001)">
+      <path
+         style="fill:#000000;stroke:#000000;stroke-width:0.25;stroke-miterlimit:0"
+         d="m 134.875,13.500001 h 5"
+         id="path358-6-6" />
+      <path
+         style="fill:#000000;stroke:#000000;stroke-width:0.25;stroke-miterlimit:0"
+         d="m 139.875,256.5 h -5"
+         id="path364-7-2" />
+      <path
+         style="fill:#000000;stroke:#000000;stroke-width:0.25;stroke-miterlimit:0"
+         d="m 134.9375,135 h 5"
+         id="path368-5-9" />
+      <path
+         style="fill:#000000;stroke:#000000;stroke-width:0.25;stroke-miterlimit:0"
+         d="m 135,74.25 h 5"
+         id="path370-3-1" />
+      <path
+         style="fill:#000000;stroke:#000000;stroke-width:0.25;stroke-miterlimit:0"
+         d="m 135,195.75 h 5"
+         id="path372-5-2" />
+    </g>
   </g>
 </svg>
